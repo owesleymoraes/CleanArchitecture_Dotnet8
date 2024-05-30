@@ -46,6 +46,15 @@ Este projeto foi criado utilizando a arquitetura limpa (Clean Architecture) com 
     - Nos projetos `classlib`, delete `Class1.cs`.
     - No projeto `webapi`, delete o `WeatherForecastController.cs`.
 
+## Adicione os projetos criados à solução:
+```bash
+        dotnet sln add MeuProjeto.Domain/MeuProjeto.Domain.csproj
+        dotnet sln add MeuProjeto.Application/MeuProjeto.Application.csproj
+        dotnet sln add MeuProjeto.Infrastructure/MeuProjeto.Infrastructure.csproj
+        dotnet sln add MeuProjeto.CrossCutting/MeuProjeto.CrossCutting.csproj
+        dotnet sln add MeuProjeto.Api/MeuProjeto.Api.csproj
+```
+
 ## Adicionando as Referências
 
 Adicione as dependências entre os projetos de acordo com a arquitetura limpa:
@@ -59,6 +68,10 @@ Adicione as dependências entre os projetos de acordo com a arquitetura limpa:
 4. Execute o comando:
     ```bash
     dotnet add reference ../NomeDoDiretorio/NomeDoDiretorio.csproj
+    ```
+5. Execute o comando:
+    ```bash
+    dotnet restore
     ```
 
 ## Estrutura de Dependências

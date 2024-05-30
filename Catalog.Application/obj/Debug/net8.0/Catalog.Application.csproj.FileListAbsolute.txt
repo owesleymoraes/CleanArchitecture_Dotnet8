@@ -1,0 +1,16 @@
+D:\app_web\cleanArqDonet8\Catalog.Application\bin\Debug\net8.0\Catalog.Application.deps.json
+D:\app_web\cleanArqDonet8\Catalog.Application\bin\Debug\net8.0\Catalog.Application.dll
+D:\app_web\cleanArqDonet8\Catalog.Application\bin\Debug\net8.0\Catalog.Application.pdb
+D:\app_web\cleanArqDonet8\Catalog.Application\bin\Debug\net8.0\Catalog.Domain.dll
+D:\app_web\cleanArqDonet8\Catalog.Application\bin\Debug\net8.0\Catalog.Domain.pdb
+D:\app_web\cleanArqDonet8\Catalog.Application\obj\Debug\net8.0\Catalog.Application.csproj.AssemblyReference.cache
+D:\app_web\cleanArqDonet8\Catalog.Application\obj\Debug\net8.0\Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\app_web\cleanArqDonet8\Catalog.Application\obj\Debug\net8.0\Catalog.Application.AssemblyInfoInputs.cache
+D:\app_web\cleanArqDonet8\Catalog.Application\obj\Debug\net8.0\Catalog.Application.AssemblyInfo.cs
+D:\app_web\cleanArqDonet8\Catalog.Application\obj\Debug\net8.0\Catalog.Application.csproj.CoreCompileInputs.cache
+D:\app_web\cleanArqDonet8\Catalog.Application\obj\Debug\net8.0\Catalog.Application.sourcelink.json
+D:\app_web\cleanArqDonet8\Catalog.Application\obj\Debug\net8.0\Catalog..75771DFE.Up2Date
+D:\app_web\cleanArqDonet8\Catalog.Application\obj\Debug\net8.0\Catalog.Application.dll
+D:\app_web\cleanArqDonet8\Catalog.Application\obj\Debug\net8.0\refint\Catalog.Application.dll
+D:\app_web\cleanArqDonet8\Catalog.Application\obj\Debug\net8.0\Catalog.Application.pdb
+D:\app_web\cleanArqDonet8\Catalog.Application\obj\Debug\net8.0\ref\Catalog.Application.dll
