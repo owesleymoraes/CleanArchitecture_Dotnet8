@@ -1,0 +1,12 @@
+D:\app_web\cleanArqDonet8\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\app_web\cleanArqDonet8\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.AssemblyInfoInputs.cache
+D:\app_web\cleanArqDonet8\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.AssemblyInfo.cs
+D:\app_web\cleanArqDonet8\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.csproj.CoreCompileInputs.cache
+D:\app_web\cleanArqDonet8\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.sourcelink.json
+D:\app_web\cleanArqDonet8\Catalog.Domain\bin\Debug\net8.0\Catalog.Domain.deps.json
+D:\app_web\cleanArqDonet8\Catalog.Domain\bin\Debug\net8.0\Catalog.Domain.dll
+D:\app_web\cleanArqDonet8\Catalog.Domain\bin\Debug\net8.0\Catalog.Domain.pdb
+D:\app_web\cleanArqDonet8\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.dll
+D:\app_web\cleanArqDonet8\Catalog.Domain\obj\Debug\net8.0\refint\Catalog.Domain.dll
+D:\app_web\cleanArqDonet8\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.pdb
+D:\app_web\cleanArqDonet8\Catalog.Domain\obj\Debug\net8.0\ref\Catalog.Domain.dll
