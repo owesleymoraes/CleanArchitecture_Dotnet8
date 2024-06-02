@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Catalog.CrossCutting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5470723bb28ebb107baadb8859a501191b0a62d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a422162081a1698b9efa6100f6b3f6e452c3b56")]
 [assembly: System.Reflection.AssemblyProductAttribute("Catalog.CrossCutting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Catalog.CrossCutting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

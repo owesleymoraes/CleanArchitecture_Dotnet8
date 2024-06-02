@@ -10,12 +10,12 @@ using Catalog.Domain.Interfaces;
 
 namespace Catalog.Application.Services
 {
-    public class ProdutoService : IProductService
+    public class ProductService : IProductService
     {
         private IProductRepository _productRepository;
 
         private readonly IMapper _mapper;
-        public ProdutoService(IMapper mapper, IProductRepository productRepository)
+        public ProductService(IMapper mapper, IProductRepository productRepository)
         {
             _productRepository = productRepository ??
                  throw new ArgumentNullException(nameof(productRepository));
