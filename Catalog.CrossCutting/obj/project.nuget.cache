@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "sFQ+ahUqPFU447OqICU5Dt/C040fVHKK81Pg6793Gfv/fisaoHJeaRJsXH4gqVOz22ZJsQf4LXGA6K6wU2Tc0A==",
+  "dgSpecHash": "35UWH8v3JAM2qUpLQh8u3WbH71NiWF42cdE65kqfk2MJ/vBNNnSOMBCDtFJ5APvuaa8NFLNjr7hoZ803/8F+4Q==",
   "success": true,
   "projectFilePath": "D:\\app_web\\cleanArqDonet8\\Catalog.CrossCutting\\Catalog.CrossCutting.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
