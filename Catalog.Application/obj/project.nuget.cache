@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "mtFUkpHX2UmWQgfCAloeZJCFEAi+BgU50smKp1wYDQr6QLdjil7aBvly7/sNMsEa+ZeyMLqcl8oMIQ7S9357Hw==",
+  "dgSpecHash": "SLNHDkllSbFhMm/VF48ckYu7fBWY58ogvVS3upUzfuc0wfm9MOvJ4smlnZ5gJwu/EXvQ+T2BoqzhkgKcNIbhmQ==",
   "success": true,
   "projectFilePath": "D:\\app_web\\cleanArqDonet8\\Catalog.Application\\Catalog.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
