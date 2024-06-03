@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\app_web\\cleanArqDonet8\\Catalog.CrossCutting\\Catalog.CrossCutting.csproj": {}
+    "d:\\app_web\\cleanArqDonet8\\Catalog.CrossCutting\\Catalog.CrossCutting.csproj": {}
   },
   "projects": {
-    "D:\\app_web\\cleanArqDonet8\\Catalog.Application\\Catalog.Application.csproj": {
+    "d:\\app_web\\cleanArqDonet8\\Catalog.Application\\Catalog.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\app_web\\cleanArqDonet8\\Catalog.Application\\Catalog.Application.csproj",
+        "projectUniqueName": "d:\\app_web\\cleanArqDonet8\\Catalog.Application\\Catalog.Application.csproj",
         "projectName": "Catalog.Application",
-        "projectPath": "D:\\app_web\\cleanArqDonet8\\Catalog.Application\\Catalog.Application.csproj",
+        "projectPath": "d:\\app_web\\cleanArqDonet8\\Catalog.Application\\Catalog.Application.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\app_web\\cleanArqDonet8\\Catalog.Application\\obj\\",
+        "outputPath": "d:\\app_web\\cleanArqDonet8\\Catalog.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj": {
-                "projectPath": "D:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj"
+              "d:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj": {
+                "projectPath": "d:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj"
               }
             }
           }
@@ -48,6 +48,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -68,14 +74,14 @@
         }
       }
     },
-    "D:\\app_web\\cleanArqDonet8\\Catalog.CrossCutting\\Catalog.CrossCutting.csproj": {
+    "d:\\app_web\\cleanArqDonet8\\Catalog.CrossCutting\\Catalog.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\app_web\\cleanArqDonet8\\Catalog.CrossCutting\\Catalog.CrossCutting.csproj",
+        "projectUniqueName": "d:\\app_web\\cleanArqDonet8\\Catalog.CrossCutting\\Catalog.CrossCutting.csproj",
         "projectName": "Catalog.CrossCutting",
-        "projectPath": "D:\\app_web\\cleanArqDonet8\\Catalog.CrossCutting\\Catalog.CrossCutting.csproj",
+        "projectPath": "d:\\app_web\\cleanArqDonet8\\Catalog.CrossCutting\\Catalog.CrossCutting.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\app_web\\cleanArqDonet8\\Catalog.CrossCutting\\obj\\",
+        "outputPath": "d:\\app_web\\cleanArqDonet8\\Catalog.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,14 +98,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\app_web\\cleanArqDonet8\\Catalog.Application\\Catalog.Application.csproj": {
-                "projectPath": "D:\\app_web\\cleanArqDonet8\\Catalog.Application\\Catalog.Application.csproj"
+              "d:\\app_web\\cleanArqDonet8\\Catalog.Application\\Catalog.Application.csproj": {
+                "projectPath": "d:\\app_web\\cleanArqDonet8\\Catalog.Application\\Catalog.Application.csproj"
               },
-              "D:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj": {
-                "projectPath": "D:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj"
+              "d:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj": {
+                "projectPath": "d:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj"
               },
-              "D:\\app_web\\cleanArqDonet8\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj": {
-                "projectPath": "D:\\app_web\\cleanArqDonet8\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj"
+              "d:\\app_web\\cleanArqDonet8\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj": {
+                "projectPath": "d:\\app_web\\cleanArqDonet8\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj"
               }
             }
           }
@@ -118,6 +124,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -138,14 +154,14 @@
         }
       }
     },
-    "D:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj": {
+    "d:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj",
+        "projectUniqueName": "d:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj",
         "projectName": "Catalog.Domain",
-        "projectPath": "D:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj",
+        "projectPath": "d:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\app_web\\cleanArqDonet8\\Catalog.Domain\\obj\\",
+        "outputPath": "d:\\app_web\\cleanArqDonet8\\Catalog.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -198,14 +214,14 @@
         }
       }
     },
-    "D:\\app_web\\cleanArqDonet8\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj": {
+    "d:\\app_web\\cleanArqDonet8\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\app_web\\cleanArqDonet8\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+        "projectUniqueName": "d:\\app_web\\cleanArqDonet8\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
         "projectName": "Catalog.Infrastructure",
-        "projectPath": "D:\\app_web\\cleanArqDonet8\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+        "projectPath": "d:\\app_web\\cleanArqDonet8\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\app_web\\cleanArqDonet8\\Catalog.Infrastructure\\obj\\",
+        "outputPath": "d:\\app_web\\cleanArqDonet8\\Catalog.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -222,8 +238,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj": {
-                "projectPath": "D:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj"
+              "d:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj": {
+                "projectPath": "d:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj"
               }
             }
           }
@@ -242,6 +258,28 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
