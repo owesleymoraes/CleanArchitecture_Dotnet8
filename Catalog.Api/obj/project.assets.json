@@ -3479,11 +3479,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\app_web\\cleanArqDonet8\\Catalog.Api\\Catalog.Api.csproj",
+      "projectUniqueName": "d:\\app_web\\cleanArqDonet8\\Catalog.Api\\Catalog.Api.csproj",
       "projectName": "Catalog.Api",
-      "projectPath": "D:\\app_web\\cleanArqDonet8\\Catalog.Api\\Catalog.Api.csproj",
+      "projectPath": "d:\\app_web\\cleanArqDonet8\\Catalog.Api\\Catalog.Api.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\app_web\\cleanArqDonet8\\Catalog.Api\\obj\\",
+      "outputPath": "d:\\app_web\\cleanArqDonet8\\Catalog.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3500,8 +3500,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\app_web\\cleanArqDonet8\\Catalog.CrossCutting\\Catalog.CrossCutting.csproj": {
-              "projectPath": "D:\\app_web\\cleanArqDonet8\\Catalog.CrossCutting\\Catalog.CrossCutting.csproj"
+            "d:\\app_web\\cleanArqDonet8\\Catalog.CrossCutting\\Catalog.CrossCutting.csproj": {
+              "projectPath": "d:\\app_web\\cleanArqDonet8\\Catalog.CrossCutting\\Catalog.CrossCutting.csproj"
             }
           }
         }

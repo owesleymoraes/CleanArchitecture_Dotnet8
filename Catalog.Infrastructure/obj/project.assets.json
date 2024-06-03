@@ -4205,11 +4205,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\app_web\\cleanArqDonet8\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+      "projectUniqueName": "d:\\app_web\\cleanArqDonet8\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
       "projectName": "Catalog.Infrastructure",
-      "projectPath": "D:\\app_web\\cleanArqDonet8\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+      "projectPath": "d:\\app_web\\cleanArqDonet8\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\app_web\\cleanArqDonet8\\Catalog.Infrastructure\\obj\\",
+      "outputPath": "d:\\app_web\\cleanArqDonet8\\Catalog.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4226,8 +4226,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj": {
-              "projectPath": "D:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj"
+            "d:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj": {
+              "projectPath": "d:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj"
             }
           }
         }

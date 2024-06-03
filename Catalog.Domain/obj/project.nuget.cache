@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7nEkA+d+qDHYGK8SmImzvHCuoWVJRWNy9+Iq+jP/X5TOEY7YQ5oVP2oslIZu9r2mk6mU607g+sYnPlRgPTK7wA==",
+  "dgSpecHash": "4WR4WGoxYEeeGfHXBhGbZ4vHftU0T4506wKm+Dz+f/xh/1SZCBuoTS5ighYbkdQFPyNKmABiEuBjCa5vzXLs4A==",
   "success": true,
-  "projectFilePath": "D:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj",
+  "projectFilePath": "d:\\app_web\\cleanArqDonet8\\Catalog.Domain\\Catalog.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

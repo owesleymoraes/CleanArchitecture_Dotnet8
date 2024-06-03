@@ -15,11 +15,10 @@ namespace Catalog.Application.Services
         private IProductRepository _productRepository;
 
         private readonly IMapper _mapper;
+        
         public ProductService(IMapper mapper, IProductRepository productRepository)
         {
-            _productRepository = productRepository ??
-                 throw new ArgumentNullException(nameof(productRepository));
-
+            _productRepository = productRepository ?? throw new ArgumentNullException(nameof(productRepository));
             _mapper = mapper;
         }
 

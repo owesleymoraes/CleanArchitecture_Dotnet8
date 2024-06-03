@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KsuCQmUerBeh+8ClRiP0fOiB7NTECQ38VIFy/wFzvCoKbjvXBUtjYF2o+VoEAFU9n+KuLN06Cb6x9743hwyjog==",
+  "dgSpecHash": "71lyKGkvAHR9pg0T7whVKcxK9+bjEYHDdNQCI1/k7Ap60WsjLKfnSMQMWjAIeK0MJXw/+uQCwPyMgEAtOb2nBA==",
   "success": true,
-  "projectFilePath": "D:\\app_web\\cleanArqDonet8\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+  "projectFilePath": "d:\\app_web\\cleanArqDonet8\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -9,7 +9,7 @@ namespace Catalog.Application.DTOs
 {
     public class ProductDTO
     {
-        public int id { get; set; }
+        public int Id { get; set; }
 
         [Required(ErrorMessage = "Informe o nome da categoria")]
         [MinLength(3)]

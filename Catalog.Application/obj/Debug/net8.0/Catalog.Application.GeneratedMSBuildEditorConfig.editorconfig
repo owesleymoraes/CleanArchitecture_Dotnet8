@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Catalog.Application
-build_property.ProjectDir = D:\app_web\cleanArqDonet8\Catalog.Application\
+build_property.ProjectDir = d:\app_web\cleanArqDonet8\Catalog.Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

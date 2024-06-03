@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vROeWNvKlj8OHWJkA3AkZhE/h94JUToXZ+pH/Wa/1jGWuFghaVeded7nIkPNFsldm94xixKrJ5hQkcBFQftsUg==",
+  "dgSpecHash": "wO1k8VoXT0PVIkztbrgYSdHHcWcco35NYyWobfb2/FhvrUbk+elbgX8rU8TntJ9FSJHZBYqbk4JNkwdntVlPQw==",
   "success": true,
-  "projectFilePath": "D:\\app_web\\cleanArqDonet8\\Catalog.Api\\Catalog.Api.csproj",
+  "projectFilePath": "d:\\app_web\\cleanArqDonet8\\Catalog.Api\\Catalog.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
