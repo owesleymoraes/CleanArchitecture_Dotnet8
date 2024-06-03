@@ -16,8 +16,7 @@ namespace Catalog.CrossCutting.IoC
         IConfiguration configuration)
         {
             services.AddDbContext<ApplicationDbContext>(options =>
-
-               options.UseMySql(configuration.GetConnectionString("DefaultConnection"), new MySqlServerVersion(new Version(8, 0, 29))));
+                options.UseMySql(configuration.GetConnectionString("DefaultConnection"), new MySqlServerVersion(new Version(8, 0, 29))));
 
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<IProductRepository, ProductRepository>();
